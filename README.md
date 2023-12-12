@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=18&pause=1000&color=F7F522&vCenter=true&random=false&width=435&lines=System.out.print(%22Welcome++to+My+Profile%22)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=18&pause=1000&color=F2F722CF&background=000000F0&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=System.out.print(%22Welcome+to+My+Profile%22);" alt="Typing SVG" /></a>
+
 
 <h1 align="center">Assalamu Alaikum (Peace be Upon You), I’m 👋 Mustafa Reda Barkat</h1>
 <h3 align="center">A fresh graduate with a bachelor degree in Bioinformatics. Seek to start a career as a Java developer. Learned some concepts and skills during my bachelor degree such as Java, C++, C#, Python, OOP, Data Structures and Algorithms, System Analysis and Design, Software Engineering, SQL and Relational Databases and so more. </h3>

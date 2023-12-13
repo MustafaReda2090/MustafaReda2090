@@ -1,4 +1,4 @@
-<a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&pause=1000&color=F2F722CF&background=000000F0&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=System.out.print(%22Welcome+to+My+Profile%22);%3C%22O+Allah!+Direct+me+to+the+Right+Path+and+make+me+adhere+to+the+Straight+Path%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&pause=1000&color=F2F722CF&background=000000F0&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=System.out.print(%22Welcome+to+My+Profile%22);%3C%22O+Allah!+Direct+me+to+the+Right+Path+and+make+me+adhere+to+the+Straight+Path%22" alt="Typing SVG" /></a>
 
 
 <h1 align="center">Assalamu Alaikum (Peace be Upon You), I’m 👋 Mustafa Reda Barkat</h1>

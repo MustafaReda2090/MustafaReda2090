@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **barkatmustafa16@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1_YFUQ-S2Tj1FL4Pw7oCWsvwF6Yak3Rzcp4E4IBrylsE/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Vpvf6nOebdklonZoHu44Rrvim0hma9fw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

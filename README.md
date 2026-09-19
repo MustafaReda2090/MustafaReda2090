@@ -1,33 +1,44 @@
-<a href="https://git.io/typing-svg"> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=10&pause=1000&color=F2F722CF&background=000000F0&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=System.out.print(%22Welcome+to+My+Profile%22);%3C%22O+Allah!+Direct+me+to+the+Right+Path+and+make+me+adhere+to+the+Straight+Path%22" alt="Typing SVG" /> <p/> </a>
+<h2 data-importer="text" align="center">Assalamu Alaikum 👋 (Peace be Upon You)</h2>
 
+###
 
-<h1 align="center">Assalamu Alaikum (Peace be Upon You), I'm 👋 Mustafa Reda Barkat</h1>
-<h3 align="center">Java backend developer — Spring Boot · PostgreSQL · REST APIs</h3>
+<h1 data-importer="text" align="center">I'm Mustafa Barkat</h1>
 
-<p align="center">Bioinformatics graduate who moved into backend engineering. Cairo, Egypt.</p>
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafareda2090&label=Profile%20views&color=0e75b6&style=flat" alt="mustafareda2090" /> </p>
+<h3 data-importer="text" align="center">Java backend developer — Spring Boot · PostgreSQL · REST APIs<br>Bioinformatics graduate who moved into backend engineering. Cairo, Egypt.</h3>
 
-I build REST APIs in Java and Spring Boot. What I care most about is the part that only shows up under load — transactions, concurrency, and queries that behave differently at three thousand rows than at three.
+###
 
-- 🔨 **Currently building** — a sequence-analysis API in Spring Boot: FASTA parsing, GC content, reverse complement, transcription and translation, motif search.
+<p data-importer="text" align="left">I build REST APIs in Java and Spring Boot. What I care most about is the part that only shows up under load — transactions, concurrency, and queries that behave differently at three thousand rows than at three.<br><br>🔨 Currently building — a sequence-analysis API in Spring Boot: FASTA parsing, GC content, reverse complement, transcription and translation, motif search.<br><br>🧰 Working with — Java 21 · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL · Flyway · JUnit · Maven<br><br>🏢 Also — Dynamics 365 F&O Development</p>
 
-- 🧰 **Working with** — Java 21 · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL · Flyway · JUnit · Maven
+###
 
-- 🏢 **Also** — Dynamics 365 F&O / X++ (Atos Ready Program)
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/mustafa-b-70889b139/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="barkatmustafa16@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-- 📫 **Reach me** — barkatmustafa16@gmail.com
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/mustafa-b](https://www.linkedin.com/in/mustafa-b-70889b139/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-b" height="30" width="40" /></a>
-</p>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafareda2090&show_icons=true&locale=en&layout=compact" alt="mustafareda2090" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafareda2090&show_icons=true&locale=en" alt="mustafareda2090" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafareda2090&" alt="mustafareda2090" /></p>
+###
